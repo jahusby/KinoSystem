@@ -1,4 +1,4 @@
-# KinoSystem
+# CinemaSystem
 
 Contributors:
 
